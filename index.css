@@ -80,7 +80,7 @@ body {
   margin-top: 30px;   /* espaço acima do texto */
   margin-bottom: 20px; /* espaço abaixo do texto */
   font-size: 1px;
-  font-style: italic; /* opcional: deixa em itálico para parecer observação */
+  font-style: italic; 
   color: #333;
 }
 
